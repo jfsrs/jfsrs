@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img width="1584" height="396" alt="Banner para Linkedin programador con fotografia azul y blanco" src="https://github.com/user-attachments/assets/5ed83d89-5f9d-4c3d-9918-c81f5bf3c572" />
+</div>
+
+
 # 💫 About Me:
 👋 About Me<br>Hi, I'm Juan F. Silva, a certified Data Scientist (TripleTen) and a professional in National and International Marketing. I'm passionate about turning data into strategic decisions that drive real impact.<br><br>💡 I combine my background in marketing, data analysis, HR, and customer service with strong technical skills in Python, SQL, Scikit-learn, Keras, LightGBM, Pandas, Matplotlib, Seaborn, and data visualization tools.<br>🚀 I've worked in industries such as transportation, industrial machinery, home appliances, and telecommunications, developing commercial strategies and applying data-driven solutions.<br>📊 My focus is on solving business problems through predictive modeling, data visualization, and process automation.<br><br>I'm constantly learning and open to collaborating on data science, business intelligence, and analytics-driven projects.
 
